@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/683468/114527412-c8d78a00-9c69-11eb-9da1-06c0a03d2f94.mp4
+
 # Paging-Retrofit-Example
 RecyclerView gets large chunk of data through Retrofit and manages paging using Paging 3.0
 ## Data Source
